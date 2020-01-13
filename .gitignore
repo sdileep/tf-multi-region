@@ -1,0 +1,11 @@
+*.vsix
+.DS_Store
+node_modules/
+out/
+.vscode-test
+npm-debug.log
+hcl-hil/*.js
+.terraform
+*.tfplan
+*.tfplan.json
+terraform.tfvars
